@@ -14,6 +14,7 @@
 	<article>본문 입니다.
 	</article>
 	<footer>푸터 입니다.
+		test2
 	</footer>
 </body>
 </html>
